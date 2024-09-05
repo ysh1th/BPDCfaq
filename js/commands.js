@@ -88,7 +88,7 @@ examprep = [
 
 pwdbl = [
   '<br>',
-  '     error <a href="' + unicoords + '" target="_blank">25N, 55E</a> not found ;(',
+  '     error <a href="' + unicoords + '" target="_blank">25°N, 55°E</a> not found ;(',
   '<br>',
   'Click to find about the error code',
   '<br>',
